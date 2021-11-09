@@ -1,0 +1,15 @@
+Registration Form
+Fields : First name, Last Name, age, mobile number, Gender (Drop down)
+	- Need to capture the values from frontend and need to persist in mongo db
+	- Need to generate userId based on name + Unique number
+	- Password with Random String and encrypted should be persisted in mongo db
+	- Need to send registration Email
+	- Need to show all the registered users with pagination
+2. Login 
+Fields:  User Id and password 
+	-Need to validate the user and passsword persisted in Mongodb
+
+N
+Mansoor Ali6:14 PM
+Note: Use ES6 feature while implementation.
+Interview_ Node js
